@@ -1,0 +1,5 @@
+metric,value
+Test Area Under ROC,0.8931
+Precision,0.8195
+Recall,0.8934
+F1 Score,0.8549

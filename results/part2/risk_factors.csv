@@ -1,0 +1,15 @@
+feature,coefficient
+age,-0.0073
+sex,-1.7611
+cp,0.9487
+trestbps,-0.0198
+chol,-0.0047
+fbs,-0.0034
+restecg,0.3965
+thalach,0.0232
+exang,-1.1812
+oldpeak,-0.5708
+slope,0.6891
+ca,-0.9388
+thal,-0.9716
+intercept,3.6392

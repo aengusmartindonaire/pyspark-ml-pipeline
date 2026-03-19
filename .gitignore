@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Spark / Hadoop
+*.log
+metastore_db/
+spark-warehouse/
+derby.log
+
+# Large datasets (download separately — see README)
+data/train.csv
+data/test.csv
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# R
+.Rhistory
+.RData
